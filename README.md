@@ -1,6 +1,6 @@
-# arasgungore.github.io
+# nikshita-sarangi.github.io
 
-My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://arasgungore.github.io).
+My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here].
 
 
 
@@ -14,7 +14,7 @@ My portfolio website built using HTML, CSS, and JavaScript. You can check it out
 
 ## Author
 
-👤 **Aras Güngöre**
+👤 **Nikshita Sarangi**
 
-* LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
-* GitHub: [@arasgungore](https://github.com/arasgungore)
+* LinkedIn: [@nikshita-sarangi](https://www.linkedin.com/in/nikshita-sarangi-004841168/)
+* GitHub: [@nikshita-sarangi](https://github.com/niksarangi)
